@@ -1,3 +1,10 @@
+[MUIのDashboard TemplateをReactアプリに導入してみた](https://dev.classmethod.jp/articles/using-the-management-screen-template-of-mui/)を参考
+
+muiのDashboard templateで簡単最高
+
+https://github.com/mui/material-ui/tree/v5.5.2/docs/data/material/getting-started/templates/dashboard
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
